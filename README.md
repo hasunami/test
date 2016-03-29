@@ -1,2 +1,2 @@
 # test
-upload test
+test to use GitHub
